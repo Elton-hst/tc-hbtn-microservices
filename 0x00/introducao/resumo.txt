@@ -1,0 +1,7 @@
+Uma arquitetura de microsserviço é uma variante do estilo estrutural da arquitetura orientada a serviços (SOA)
+organiza um aplicativo como uma coleção de serviços fracamente acoplados. Em uma arquitetura de microsserviços, 
+os serviços são refinados e os protocolos são leves. O objetivo é que as equipes possam dar vida aos seus serviços 
+independentemente dos outros. O baixo acoplamento reduz todos os tipos de dependências e as complexidades ao seu 
+redor, pois os desenvolvedores de serviços não precisam se preocupar com os usuários do serviço, eles não forçam 
+suas alterações aos usuários do serviço. Portanto, permite que as organizações que desenvolvem software cresçam 
+rapidamente e sejam grandes, bem como usem serviços de prateleira com mais facilidade.
