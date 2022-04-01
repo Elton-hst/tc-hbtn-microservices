@@ -1,0 +1,21 @@
+O que é Arquitetura Serverless:
+A computação sem servidor é um modelo de execução de computação em nuvem no qual o provedor de nuvem aloca recursos da máquina sob demanda, cuidando dos servidores 
+em nome de seus clientes. "Sem servidor" é um nome impróprio no sentido de que os servidores ainda são usados por provedores de serviços em nuvem para executar
+código para desenvolvedores. No entanto, os desenvolvedores de aplicativos sem servidor não estão preocupados com planejamento de capacidade , configuração, 
+gerenciamento, manutenção, tolerância a falhas ou dimensionamento de contêineres, VMs ou servidores físicos. A computação sem servidor não armazena recursos em 
+memória volátil; a computação é feita em rajadas curtas com os resultados persistidos no armazenamento. Quando um aplicativo não está em uso, não há recursos de 
+computação alocados para o aplicativo. O preço é baseado na quantidade real de recursos consumidos por um aplicativo. Pode ser uma forma de computação utilitária.
+
+O que é Function as a service (FaaS) ?
+Uma função como serviço, ou FaaS, é um tipo de serviço de cloud computing que permite que os desenvolvedores criem, executem e gerenciem pacotes de aplicações como 
+funções, sem a necessidade de se preocupar com a manutenção da infraestrutura. Ela é um modelo de execução orientado a eventos que é executado em containers 
+stateless. Essas funções gerenciam a lógica e o estado no lado do servidor usando serviços de um provedor de FaaS.
+
+Quais são os benefícios de usar arquitetura Serverless ?
+...
+
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benéficios ?
+...
+
+Quais são as principais diferença entre Arquitetura Monólitica, Microsserviços e Serverless ?
+...
